@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Wish</string>
+    <string name="textview1">WELCOME TO OUR APP</string>
+    <string name="inputname">ENTER THE NAME</string>
+    <string name="buttomtext1">CREATE BIRTHDAY CARD</string>
+    <string name="happy_birthday">HAPPY BIRTHDAY</string>
+</resources>
